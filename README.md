@@ -6,3 +6,8 @@ O sistema consiste em 3 abas,
 1º aba ajuda, fala sobre as funcionalidades do sistema.
 2º aba tem as 2 funcionalidades de desabilitar e abilitar o PAINEL DE CONTROLE
 3º aba você pode criptografar documento como extensão txt, doc, pdf
+
+
+
+===================VISUAL BASIC.NET================================================================
+
